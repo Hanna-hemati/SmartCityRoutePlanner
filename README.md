@@ -16,3 +16,9 @@
    ```bash
    git clone https://github.com/your-username/SmartCityRoutePlanner.git
    cd SmartCityRoutePlanner
+   
+ Install dependencies:
+pip install -r requirements.txt
+
+ Run the app:
+ python main.py
